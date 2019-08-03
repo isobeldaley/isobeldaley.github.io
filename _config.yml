@@ -1,11 +1,11 @@
 # Site settings
 author: Isobel Daley
-title: 
+title: The Data Science Diaries
 header-img: img/home-bg.png
 email: isobeldaley@gmail.com
 copyright_name: Isobel Daley
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Becoming a Data Scientist
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  isobeldaley
