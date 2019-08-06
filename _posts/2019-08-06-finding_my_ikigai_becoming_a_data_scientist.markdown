@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Finding My Ikigai: Becoming a Data Scientist"
-date:       2019-08-06 14:42:20 +0000
+title:      "Finding My Ikigai.  Becoming a Data Scientist"
+date:       2019-08-06 10:42:21 -0400
 permalink:  finding_my_ikigai_becoming_a_data_scientist
 ---
 
